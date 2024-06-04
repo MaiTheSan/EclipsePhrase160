@@ -4,6 +4,10 @@ Eclipse Phrase「160」1.0 Design with gummy o-ring mount
 ## Disclaimer
 All product manufacture after Sep 21, 2023 is contraband and not allow to commercial under Attribution-NonCommercial-NoDerivatives 4.0 International licence!
 
+## Acceptable modified
+[Mai The San](https://github.com/MaiTheSan): Owner <br />
+[Le Quoc Trong](https://github.com/MysteryAssss): GummyOring keyboard modification
+
 ## License
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
