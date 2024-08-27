@@ -7,6 +7,8 @@ All product manufacture after Sep 21, 2023 is contraband and not allow to commer
 ## Acceptable modified
 [Mai The San](https://github.com/MaiTheSan): Owner <br />
 [Le Quoc Trong](https://github.com/MysteryAssss): GummyOring keyboard modification
+
+## For clear information
 Le Quoc Trong has permission to modify both the original case and the commercially modified version, but does not have permission to using the original file for commercial purposes.
 
 ## License
